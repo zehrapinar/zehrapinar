@@ -60,7 +60,7 @@ public class ZehraPinar
   <a href="https://github.com/zehrapinar/MessageFlow">
     <img
       src="https://img.shields.io/badge/View_on_GitHub_→-238636?style=for-the-badge&logo=github&logoColor=white"
-      alt="View on GitHub"
+      alt="Projeyi incele"
       height="38"
     />
   </a>
