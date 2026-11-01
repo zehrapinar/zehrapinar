@@ -99,5 +99,50 @@ public class ZehraPinar
 </p>
 
 <br>
+<br>
+
+<h2 align="center">🛠️ Teknik Yetkinliklerim</h2>
+
+<br>
+
+<h3 align="center">💻 Programlama Dilleri</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,js,html,css&theme=dark" alt="Programlama Dilleri" />
+</p>
+
+<br>
+
+<h3 align="center">⚙️ Framework ve Teknolojiler</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,bootstrap&theme=dark" alt="Framework ve Teknolojiler" />
+</p>
+
+<p align="center">
+  <sub>ASP.NET Core MVC • Entity Framework Core • Bootstrap</sub>
+</p>
+
+<br>
+
+<h3 align="center">🗄️ Veritabanı</h3>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="55" height="55" alt="SQL Server" />
+</p>
+
+<p align="center">
+  <sub>Microsoft SQL Server • T-SQL</sub>
+</p>
+
+<br>
+
+<h3 align="center">🧰 Geliştirme Araçları</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman&theme=dark" alt="Geliştirme Araçları" />
+</p>
+
+<br>
 
 ---
