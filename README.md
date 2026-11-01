@@ -9,7 +9,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Merhaba%2C+ben+Zehra+P%C4%B1nar!;Junior+Software+Developer;Backend+Development+%7C+.NET+%7C+C%23;Kodluyorum%2C+%C3%B6%C4%9Freniyorum%2C+geli%C5%9Fiyorum." alt="Yazı animasyonu" />
 
 </div>
-### 👩‍💻 Hakkımda
+<br>
+
+<h2 align="center">👩‍💻 Hakkımda</h2>
 
 ```csharp
 public class ZehraPinar
