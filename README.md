@@ -36,3 +36,40 @@ public class ZehraPinar
         "Advanced T-SQL";
 }
 ```
+<br>
+
+<h2 align="center">🚀 Öne Çıkan Projelerim</h2>
+
+<h3>💬 MessageFlow</h3>
+
+<p>
+  WhatsApp Cloud API entegrasyonuyla anlık ve zamanlanmış
+  mesaj gönderimini sağlayan, kişi ve mesaj yönetimi
+  özelliklerine sahip bir web uygulaması.
+</p>
+
+<p align="center">
+  <a href="https://github.com/zehrapinar/MessageFlow">
+    <img src="dashboard.png"
+         alt="MessageFlow Dashboard"
+         width="100%">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square">
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square">
+</p>
+
+<p align="center">
+  <a href="https://github.com/zehrapinar/MessageFlow">
+    <img src="https://img.shields.io/badge/🔗_PROJEYİ_İNCELE-58A6FF?style=for-the-badge"
+         alt="Projeyi İncele">
+  </a>
+</p>
+
+<br>
+
+---
