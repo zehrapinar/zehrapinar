@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="banner.png" alt="Zehra Pınar - Software Developer" width="100%">
+</div>
+
+<br>
+
+<div align="center">
 
 # Merhaba, ben Zehra Pınar! 👋
 
