@@ -50,7 +50,7 @@ public class ZehraPinar
 
 <p align="center">
   <a href="https://github.com/zehrapinar/MessageFlow">
-    <img src="dashboard.png"
+    <img src="kapakfoto.png"
          alt="MessageFlow Dashboard"
          width="100%">
   </a>
