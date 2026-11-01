@@ -68,4 +68,36 @@ public class ZehraPinar
 
 <br>
 
+<br>
+
+<h3>🎂 İNCİ | Butik Pastacılık E-Ticaret</h3>
+
+<p>
+  İNCİ, kullanıcıların özel gün pastalarını kişiselleştirerek
+  sipariş verebildiği, modern ve kullanıcı dostu bir e-ticaret
+  uygulamasıdır. Pasta boyutu, içerik ve özel yazı seçeneklerinin
+  yanı sıra üyelik, sepet, sipariş yönetimi ve admin paneli
+  özelliklerini içerir.
+</p>
+
+<p align="center">
+  <a href="https://github.com/zehrapinar/INCI">
+    <img
+      src="kapakinci.png"
+      alt="İNCİ - Butik Pastacılık E-Ticaret Platformu"
+      width="100%">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/zehrapinar/INCI">
+    <img
+      src="https://img.shields.io/badge/View_on_GitHub_→-6B3028?style=for-the-badge&logo=github&logoColor=white"
+      alt="View on GitHub"
+      height="38">
+  </a>
+</p>
+
+<br>
+
 ---
