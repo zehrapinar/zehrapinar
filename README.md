@@ -57,16 +57,12 @@ public class ZehraPinar
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square">
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square">
-</p>
-
-<p align="center">
   <a href="https://github.com/zehrapinar/MessageFlow">
-    <img src="https://img.shields.io/badge/🔗_PROJEYİ_İNCELE-58A6FF?style=for-the-badge"
-         alt="Projeyi İncele">
+    <img
+      src="https://img.shields.io/badge/View_on_GitHub_→-238636?style=for-the-badge&logo=github&logoColor=white"
+      alt="View on GitHub"
+      height="38"
+    />
   </a>
 </p>
 
