@@ -1,16 +1,18 @@
 <div align="center">
 
-# Hi there, I'm Zehra! 👋
+# Merhaba, ben Zehra Pınar! 👋
 
-### Junior Software Developer
+### Junior Software Developer | .NET & Backend Development
 
-**Backend Development | .NET | C# | SQL Server**
+💻 C# ve ASP.NET Core teknolojileriyle yazılım projeleri geliştiriyorum.
 
-💻 Building software solutions with modern technologies.
+🗄️ SQL Server ve veritabanı yönetimi alanında kendimi geliştiriyorum.
 
-📚 Currently learning Advanced T-SQL & Software Testing.
+📚 Şu anda ileri seviye T-SQL ve yazılım testi üzerine çalışıyorum.
 
-🚀 Passionate about Backend Development and Software Engineering.
+🚀 Backend geliştirme, kurumsal yazılım sistemleri ve yazılım mühendisliği alanlarına ilgi duyuyorum.
+
+🎯 Hedefim, ölçeklenebilir, sürdürülebilir ve kullanıcı ihtiyaçlarına yönelik yazılım çözümleri geliştirmek.
 
 </div>
 
