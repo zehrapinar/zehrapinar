@@ -11,8 +11,6 @@
 </div>
 <br>
 
-<h2 align="center">👩‍💻 Hakkımda</h2>
-
 ```csharp
 public class ZehraPinar
 {
