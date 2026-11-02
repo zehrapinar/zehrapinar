@@ -143,20 +143,4 @@ public class ZehraPinar
   <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman&theme=dark" alt="Geliştirme Araçları" />
 </p>
 
-<br>
 
-<br>
-
-<h2 align="center">📊 GitHub İstatistiklerim</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehrapinar&layout=compact&theme=github_dark&hide_border=true"
-    alt="En Çok Kullanılan Diller"
-    height="170"
-  />
-</p>
-
-<br>
-
----
